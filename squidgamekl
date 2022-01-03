@@ -12,3 +12,4 @@ game:GetService("ReplicatedStorage").Remotes.Replication:FireServer(unpack(args)
 
    end
 end
+end
